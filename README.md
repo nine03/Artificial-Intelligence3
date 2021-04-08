@@ -3,5 +3,5 @@
 ### 开发环境(development environment 개발환경)
 - PyCharm 
 - Python 3.6
-- numpy
+- Numpy
 ### 主要原理(주요원리)
