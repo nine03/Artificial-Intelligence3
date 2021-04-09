@@ -11,4 +11,6 @@
 循环神经网络具有记忆性,参数共享并且图灵完备(Turing completeness), 因此在对序列的非线性特征进行学习时具有一定优势。循环神经网络在自然语言处理(Natural Language Processing, NLP), 例如语音识别, 语言建模, 机器翻译等领域有应用, 也被用于各类时间序列预报。引入了卷积神经网络(Convoutional Neural Network, CNN)构筑的循环神经网络可以处理包含序列输入的计算机视觉问题。   
 ![d6ca7bcb0a46f21f429a50e4fb246b600d33aedf](https://user-images.githubusercontent.com/60682087/114156523-a4279d80-995d-11eb-873a-2e98fc7c8126.jpg)   
 
+### RNN网路结构
+
 - 这个项目是我为了重新学习人工智能而做的项目。（이 프로젝트는 내가 인공지능을 다시 공부하기위해서 만든 프로젝트입니다.）
